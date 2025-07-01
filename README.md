@@ -6,7 +6,7 @@ I'm a **19-year-old frontend developer** with a passion for building modern, res
 
 ## 🌐 Connect with me
 
-- 🧠 Portfolio: [[https://topeeez-portfolio.vercel.app/en](https://topeeez-portfolio.vercel.app/en)
+- 🧠 Portfolio: [https://topeeez-portfolio.vercel.app/en](https://topeeez-portfolio.vercel.app/en)
 - 💼 LinkedIn: [https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/](https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/)
 
 ---

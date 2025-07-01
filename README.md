@@ -27,11 +27,8 @@ I'm a **19-year-old frontend developer** with a passion for building modern, res
 
 ## 📊 GitHub Stats
 
-<span>
+<span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=topeez&show_icons=true&theme=tokyonight" alt="Ondřej's GitHub stats" />
-</span>
-
-<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topeez&layout=compact&theme=tokyonight" alt="Top languages" />
 </span>
 

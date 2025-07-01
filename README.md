@@ -1,10 +1,57 @@
-- 👋 Hi, I’m @Topeez
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Javascript use in web dev
-- 📫 How to reach me:
-  - Discord: Topeeez
+# 👋 Hi, I'm Ondřej – Frontend Developer from Czech Republic
 
-<!---
-Topeez/Topeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **19-year-old frontend developer** with a passion for building modern, responsive, and user-friendly web applications. I enjoy working with cutting-edge technologies and continuously improving my skills through real-world projects.
+
+---
+
+## 🌐 Connect with me
+
+- 🧠 Portfolio: [[https://topeeez-portfolio.vercel.app/en](https://topeeez-portfolio.vercel.app/en)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/](https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Markup:**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+**Frameworks & Libraries:**
+- React.js, Next.js, Tailwind CSS, ShadCN/UI
+
+**Tools & Platforms:**
+- Git & GitHub, VS Code, Figma, Webpack
+- Vercel
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=topeez&show_icons=true&theme=tokyonight" alt="Ondřej's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topeez&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 🧠 What I'm Learning Now
+
+- Deepening my knowledge of **TypeScript** & **React ecosystem**
+- Exploring **backend integration** with Next.js API routes
+- Improving UI/UX design skills with code
+
+---
+
+## 📌 My Goals for 2025
+
+- ✅ Land my first frontend developer job or internship
+- 🚀 Build and publish more open-source projects
+- 🌍 Contribute to web accessibility and performance best practices
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+

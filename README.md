@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ondřej – Frontend Developer from Czech Republic
 
-I'm a **19-year-old frontend developer** with a passion for building modern, responsive, and user-friendly web applications. I enjoy working with cutting-edge technologies and continuously improving my skills through real-world projects.
+I'm a **20-year-old frontend developer** with a passion for building modern, responsive, and user-friendly web applications. I enjoy working with cutting-edge technologies and continuously improving my skills through real-world projects.
 
 ---
 

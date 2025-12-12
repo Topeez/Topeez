@@ -6,7 +6,7 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 
 ## 🌐 Connect with me
 
-- 🧠 Portfolio: [https://topeeez-portfolio.vercel.app/en](https://topeeez-portfolio.vercel.app/en)
+- 🧠 Portfolio: [https://topeeez.cz](https://topeeez.cz)
 - 💼 LinkedIn: [https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/](https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/)
 
 ---
@@ -14,7 +14,7 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 ## 🛠️ Tech Stack
 
 **Languages & Markup:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, C++, C#
 
 **Frameworks & Libraries:**
 - React.js, Next.js, Tailwind CSS, ShadCN/UI

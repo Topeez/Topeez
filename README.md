@@ -42,7 +42,7 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 
 ---
 
-## 📌 My Goals for 2025
+## 📌 My Goals for 2026
 
 - ✅ Land my first frontend developer job or internship
 - 🚀 Build and publish more open-source projects

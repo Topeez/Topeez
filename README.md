@@ -1,60 +1,28 @@
-# 👋 Hi, I'm Ondřej – Frontend Developer from Czech Republic
+# Hi 👋, I'm Ondřej Topínka
 
-I'm a **20-year-old frontend developer** with a passion for building modern, responsive, and user-friendly web applications. I enjoy working with cutting-edge technologies and continuously improving my skills through real-world projects.
+### A passionate React developer
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Topeez&label=Profile views&color=0e75b6&style=flat" alt="Topeez" /> </p>
 
-## 🌐 Connect with me
+- 🔭 I'm currently working on **SideBySide project - app for couples**
 
-- 🧠 Portfolio: [https://topeeez.cz](https://topeeez.cz)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/](https://www.linkedin.com/in/ond%C5%99ej-top%C3%ADnka-195bb4275/)
+- 🌱 I'm currently learning **Web development using React and static websites development using Astro.js**
 
----
+- 📫 How to reach me **topetopinka7@seznam.cz**
 
-## 🛠️ Tech Stack
+- 👨‍💻 All of my projects are available at **[https://topeeez.cz](https://topeeez.cz)**
 
-**Languages & Markup:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, C++, C#, SQL, PostgreSQL, MSSQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Topeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Topeez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ondřej-topínka-195bb4275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondřej-topínka-195bb4275" height="30" width="40" /></a>
+<a href="https://discord.gg/t0p33z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t0p33z" height="30" width="40" /></a>
+</p>
 
-**Frameworks & Libraries:**
-- React.js, Next.js, Astro.js, Tailwind CSS, ShadCN/UI
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-**Tools & Platforms:**
-- Git & GitHub, VS Code, Figma, Webpack
-- Vercel, Supabase
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Topeez&show_icons=true&locale=en&layout=compact" alt="Topeez" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Topeez&show_icons=true&locale=en" alt="Topeez" /></p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-topeeezs-projects.vercel.app/api?username=Topeez&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Ondřej's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-topeeezs-projects.vercel.app/api/top-langs/?username=Topeez&layout=pie&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</div>
-
-
----
-
-## 🧠 What I'm Learning Now
-
-- Deepening my knowledge of **TypeScript** & **React ecosystem**
-- Exploring **backend integration** with Next.js API routes
-- Improving UI/UX design skills with code
-
----
-
-## 📌 My Goals for 2026
-
-- ✅ Land my first frontend developer job or internship
-- 🚀 Build and publish more open-source projects
-- 🌍 Contribute to web accessibility and performance best practices
-
----
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House

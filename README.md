@@ -14,7 +14,7 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 ## 🛠️ Tech Stack
 
 **Languages & Markup:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, C++, C#, SQL, PostreSQL, MSSQL
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, C++, C#, SQL, PostgreSQL, MSSQL
 
 **Frameworks & Libraries:**
 - React.js, Next.js, Astro.js, Tailwind CSS, ShadCN/UI

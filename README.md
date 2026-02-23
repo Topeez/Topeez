@@ -27,10 +27,10 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 
 ## 📊 GitHub Stats
 
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topeez&show_icons=true&theme=tokyonight" alt="Ondřej's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topeez&layout=compact&theme=tokyonight" alt="Top languages" />
-</span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Topeez&show_icons=true&theme=tokyonight&hide_border=true" alt="Ondřej's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topeez&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+</div>
 
 ---
 
@@ -50,5 +50,4 @@ I'm a **20-year-old frontend developer** with a passion for building modern, res
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
